@@ -35,7 +35,7 @@
 
 ## 🌐 Live Demo
 
-**[Click here to try the app live!](https://your-github-username.github.io/your-repo-name/)**
+Try the app here: **[Epiccodeee's Bank Live Demo](https://epiccodeee.github.io/Epiccodeee-s-Bank/)**
 
 ---
 
@@ -48,10 +48,11 @@
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-github-username/your-repo-name.git
+   git clone https://github.com/Epiccodeee/Epiccodeee-s-Bank.git
 
 2. Navigate to the project directory:
-bash Copy code cd your-repo-name
+cd Epiccodeee-s-Bank
+
 
 3. Open the index.html file in your browser to run the app.
 
